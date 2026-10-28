@@ -1,0 +1,16 @@
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local output
+*.log
+__pycache__/
